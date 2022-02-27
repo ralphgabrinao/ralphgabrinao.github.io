@@ -1,0 +1,59 @@
+{
+    "basic_info": {
+      "name": "Ralph Mari Gabrinao",
+      "titles": [  "Software Engineer", "Azure Certified Developer", "Running Enthusiast", "Dog Dad", "Phoenix Suns Fan" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/ralphgabrinao",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/ralphgabrinao/",
+          "class": "fab fa-linkedin"
+        }
+      ],
+      "image": "myProfile.jpeg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "C#",
+          "class": "devicon-csharp-plain"
+        },
+        {
+          "name": "Azure",
+          "class": "devicon-azure-plain"
+        },
+        {
+          "name": ".NET Core",
+          "class": "devicon-dotnetcore-plain"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain"
+        },
+        {
+          "name": "DevOps",
+          "class": "devicon-devicon-plain"
+        },
+        {
+          "name": "Jenkins",
+          "class": "devicon-jenkins-plain"
+        },
+        {
+          "name": "Docker",
+          "class": "devicon-docker-plain"
+        }
+      ]
+    }
+  }
