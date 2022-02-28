@@ -31,8 +31,23 @@
           "class": "devicon-dotnetcore-plain"
         },
         {
+          "name": "SQL Server",
+          "class": "devicon-microsoftsqlserver-plain"
+        },
+        {
+          "name": "AWS",
+          "class": "devicon-amazonwebservices-plain-wordmark"
+        },{
           "name": "React",
           "class": "devicon-react-plain"
+        },
+        {
+          "name": "Redux",
+          "class": "devicon-redux-original"
+        },
+        {
+          "name": "Jest",
+          "class": "devicon-jest-plain"
         },
         {
           "name": "TypeScript",
@@ -41,6 +56,14 @@
         {
           "name": "JavaScript",
           "class": "devicon-javascript-plain"
+        },
+        {
+          "name": "Sass",
+          "class": "devicon-sass-original"
+        },
+        {
+          "name": "Linux",
+          "class": "devicon-linux-plain"
         },
         {
           "name": "DevOps",
